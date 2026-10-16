@@ -1,15 +1,27 @@
-Arbitrary Precision Calculator (APC)
-Description
-The Arbitrary Precision Calculator (APC) is a C language project designed to perform arithmetic operations on large numbers that exceed the normal range of built-in data types.
-The project uses data structures and arithmetic logic to handle large numbers and perform calculations accurately.
-Features
-Addition of large numbers
-Subtraction of large numbers
-Multiplication of large numbers
-Division of large numbers
-Handles numbers beyond the limits of standard integer data types
-Technologies Used
-C Programming
-Data Structures
-Makefile
-GCC Compiler
+# Arbitrary Precision Calculator (APC)
+
+## Description
+
+The Arbitrary Precision Calculator (APC) is a C programming project designed to perform arithmetic operations on very large numbers using linked lists.
+
+## Features
+
+* Performs arithmetic operations on large numbers.
+* Uses linked lists to store and process digits.
+* Handles numbers beyond the limits of standard C data types.
+
+## Technologies Used
+
+* C Programming
+* Data Structures
+* Linked Lists
+* Pointers
+* Dynamic Memory Allocation
+
+## Operations Supported
+
+* Addition (`+`)
+* Subtraction (`-`)
+* Multiplication (`*`)
+* Division (`/`)
+
